@@ -1,1 +1,1 @@
-worker: python btc_vwmom_sms_alert_full_simple.py
+worker: python btc_vwmom_sms_alert_pro.py
